@@ -1,0 +1,2 @@
+This is a personal finance tracker or an expense tracker with tthe ability to log and track different transactions,organize them get summary of income and expenses and also view our data in a graph to how much money we are making in a month
+the database was store in a .csv file so as to be able to import it into an excel spreadsheet or any database 

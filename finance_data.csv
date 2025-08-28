@@ -1,0 +1,102 @@
+date,amount,category,description
+04-09-2024,2271.74,Expense,Entertainment
+02-09-2024,8304.25,Expense,Rent
+21-07-2024,16188.15,Income,Bonus
+06-07-2024,7026.72,Expense,Education
+20-08-2024,21420.19,Income,Salary
+13-08-2024,253.39,Expense,Shopping
+31-07-2024,4837.75,Expense,Transport
+28-07-2024,45190.1,Income,Side Gig
+27-09-2024,2117.63,Expense,Entertainment
+28-09-2024,1475.35,Income,Side Gig
+11-07-2024,11238.3,Income,Salary
+24-09-2024,25386.06,Income,Side Gig
+18-09-2024,8047.81,Expense,Rent
+08-09-2024,3982.77,Expense,Restaurant
+17-08-2024,32539.35,Income,Freelance Project
+12-07-2024,3448.68,Expense,Shopping
+07-07-2024,37813.18,Income,Freelance Project
+30-07-2024,6497.28,Expense,Medical
+25-08-2024,47703.9,Income,Freelance Project
+21-07-2024,5402.31,Expense,Shopping
+24-08-2024,4893.72,Expense,Internet Bill
+08-07-2024,3495.98,Expense,Rent
+17-09-2024,6989.87,Expense,Groceries
+13-09-2024,3341.08,Income,Salary
+04-07-2024,7271.14,Expense,Transport
+15-09-2024,293.72,Expense,Rent
+04-08-2024,3327.76,Expense,Rent
+25-09-2024,9215.88,Expense,Groceries
+09-07-2024,4330.39,Expense,Education
+09-07-2024,9623.28,Expense,Medical
+22-09-2024,4593.71,Expense,Rent
+20-09-2024,32107.33,Income,Bonus
+08-08-2024,1610.44,Income,Side Gig
+04-07-2024,4152.0,Expense,Internet Bill
+05-08-2024,19448.37,Income,Investment Return
+05-08-2024,10193.26,Income,Side Gig
+05-07-2024,10675.41,Income,Side Gig
+03-09-2024,25866.87,Income,Side Gig
+07-07-2024,931.61,Expense,Transport
+19-08-2024,42553.38,Income,Bonus
+26-09-2024,3534.29,Expense,Utilities
+01-09-2024,8139.56,Expense,Transport
+11-09-2024,4897.57,Income,Investment Return
+31-07-2024,11928.09,Income,Freelance Project
+17-08-2024,9175.56,Expense,Utilities
+19-08-2024,12869.88,Income,Side Gig
+12-08-2024,28810.43,Income,Freelance Project
+27-07-2024,7856.97,Expense,Utilities
+03-08-2024,36301.49,Income,Salary
+10-08-2024,24292.31,Income,Salary
+19-09-2024,27066.24,Income,Side Gig
+20-07-2024,6628.6,Expense,Rent
+18-09-2024,3386.0,Expense,Transport
+14-07-2024,38242.96,Income,Salary
+11-08-2024,29750.96,Income,Salary
+10-08-2024,18581.95,Income,Bonus
+28-09-2024,2204.12,Expense,Shopping
+20-09-2024,44608.07,Income,Freelance Project
+16-07-2024,41273.46,Income,Salary
+10-07-2024,3937.47,Expense,Restaurant
+19-09-2024,10799.49,Income,Investment Return
+02-08-2024,5074.9,Expense,Groceries
+25-07-2024,8074.66,Expense,Shopping
+17-07-2024,44730.22,Income,Freelance Project
+09-09-2024,2260.94,Expense,Entertainment
+21-07-2024,8003.37,Income,Bonus
+15-09-2024,26653.01,Income,Salary
+06-08-2024,3610.86,Expense,Restaurant
+14-07-2024,8882.09,Expense,Transport
+21-08-2024,7905.53,Expense,Rent
+29-09-2024,26983.55,Income,Salary
+22-09-2024,5808.88,Expense,Groceries
+07-07-2024,32132.07,Income,Side Gig
+03-07-2024,33693.87,Income,Salary
+31-07-2024,567.42,Expense,Entertainment
+11-07-2024,6660.92,Expense,Rent
+06-08-2024,6695.13,Expense,Restaurant
+03-07-2024,39506.87,Income,Salary
+02-07-2024,383.68,Expense,Entertainment
+31-07-2024,23642.36,Income,Salary
+16-09-2024,5566.43,Expense,Groceries
+12-08-2024,8112.05,Expense,Restaurant
+14-08-2024,48666.36,Income,Bonus
+15-09-2024,8377.6,Expense,Entertainment
+11-08-2024,30827.18,Income,Investment Return
+31-07-2024,11226.1,Income,Salary
+20-08-2024,5944.69,Expense,Utilities
+18-07-2024,18953.61,Income,Freelance Project
+13-07-2024,5835.87,Expense,Restaurant
+22-07-2024,33722.79,Income,Side Gig
+03-07-2024,706.26,Expense,Utilities
+02-07-2024,794.66,Expense,Transport
+03-08-2024,2478.31,Expense,Medical
+25-07-2024,3681.28,Expense,Transport
+17-07-2024,8225.51,Expense,Entertainment
+02-07-2024,8700.94,Expense,Restaurant
+06-07-2024,11118.35,Income,Bonus
+17-07-2024,27640.9,Income,Bonus
+17-08-2024,36364.79,Income,Freelance Project
+21-07-2024,5201.75,Expense,Rent
+12-12-2025,300.0,Income,<function get_description at 0x000002A1853498A0>
