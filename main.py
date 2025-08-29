@@ -1,7 +1,7 @@
 import pandas as pd
 import csv 
 from datetime import datetime 
-from student_expense_tracker.data_entry import get_amount,get_category,get_date,get_description
+from data_entry import get_amount,get_category,get_date,get_description
 import matplotlib.pyplot as plt
 
 class CSV:
