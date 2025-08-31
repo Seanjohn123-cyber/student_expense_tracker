@@ -52,7 +52,7 @@ class CSV:
                 filtered_df.to_string(
                 index=False ,formatters={"date":lambda x : x.strftime(CSV.FORMAT)}
                 )
-    )
+                )
             
             total_income = filtered_df[filtered_df["category"] == "Income"]["amount"].sum()
             total_expense = filtered_df[filtered_df["category"] == "Expense"]["amount"].sum()
