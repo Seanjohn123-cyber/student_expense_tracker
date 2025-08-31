@@ -52,7 +52,7 @@ class CSV:
                 filtered_df.to_string(
                 index=False ,formatters={"date":lambda x : x.strftime(CSV.FORMAT)}
                 )
-                )
+            )
             
             total_income = filtered_df[filtered_df["category"] == "Income"]["amount"].sum()
             total_expense = filtered_df[filtered_df["category"] == "Expense"]["amount"].sum()
@@ -70,7 +70,7 @@ def add():
     date = get_date("Enter the date of the transaction(dd-mm-yyyy) or enter for todays date: ",allow_default=True)
     amount = get_amount()
     category = get_category()
-    description = get_description
+    description = get_description()
     CSV.add_entry(date,amount,category,description)
 
 def plot_transaction(df):
