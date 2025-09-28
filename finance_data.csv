@@ -99,4 +99,4 @@ date,amount,category,description
 17-07-2024,2764.9,Income,Bonus
 17-08-2024,3636.79,Income,Freelance Project
 21-07-2024,5201.75,Expense,Rent
-12-12-2025,300.0,Income,<function get_description at 0x000002A1853498A0>
+12-12-2025,300.0,Expense,subscription 
